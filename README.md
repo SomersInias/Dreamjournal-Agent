@@ -45,7 +45,7 @@ The agent uses **LangChain tool calling** to dynamically decide when to:
 ---
 
 ###  Retrieval-Augmented Generation (RAG)
-- Converts the dream journal into a vector database  (this is added as a seperate tool for the agent so that it can call it again if needed when new dreams are added into the dreamjournal)
+- Converts the dream journal into a vector database  (this is added as a seperate tool for the agent so that it can call it again if needed when new dreams are added into the dreamjournal) 
 - Uses OpenAI embeddings (`text-embedding-3-large`)  
 - Enables semantic search over past dreams  
 
