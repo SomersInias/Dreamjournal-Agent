@@ -274,3 +274,11 @@ Here are the dreams from your journal that involve animals: <br>
 These dreams show a variety of interactions with different animals. If you'd like to discuss any of them further, feel free to ask! <br>
 
 
+
+---
+
+## LangSmith Studio Example tracing of above example 
+![exampletracing-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/54dc1b13-3449-4d03-8bee-5b6202f4c0ed)
+
+
+
